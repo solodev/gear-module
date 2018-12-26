@@ -1,0 +1,11 @@
+.bg-hover-primary-dark:hover {
+    background-color: #a60b74 !important;
+}
+
+.h-250p {
+    height: 250px;
+}
+
+.cover {
+    object-fit: cover;
+}
