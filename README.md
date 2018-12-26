@@ -8,7 +8,7 @@
 ## Step 1: Add the Form
  - gear-form.tpl
 
-Create a calendar for the Photo Gallery and upload the following form. This module will use category template for the details, so please follow our tutorial on doing that here! ADD LINK!
+Create a calendar for the Gear Gallery and upload the following form. This module will use category template for the details, so please follow our tutorial on doing that here! ADD LINK!
 
 ```
 <link href="/core/fileparse.php/15/urlt/cms-style.css" rel="stylesheet">
