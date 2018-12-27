@@ -1,4 +1,4 @@
-# photos-module
+# gear-module
 
 ## Prerequisites
 <ul>
