@@ -136,7 +136,7 @@ Add the following repeater shortcode.
 ```
 
 ## Step 3: Add the Detail Template
-- gear-detail.tpl
+- gear-category-detail.tpl
 
 This will be in the category.stml page.
 ```
